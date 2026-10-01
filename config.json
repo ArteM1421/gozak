@@ -1,1 +1,8 @@
-
+[
+  {
+    "name": "Calculator",
+    "description": "калькулятор",
+    "icon": "none",
+    "html": "https://raw.githubusercontent.com/ArteM1421/gozak/refs/heads/main/official-games/calculator.html"
+  }
+]
